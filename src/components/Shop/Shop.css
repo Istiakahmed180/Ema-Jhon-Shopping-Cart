@@ -5,6 +5,8 @@
 .product-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-row-gap: 50px;
-  grid-column-gap: 0px;
+  /* grid-row-gap: 50px;
+  grid-column-gap: 0px; */
+  grid-gap: 40px;
+  margin: 50px;
 }
